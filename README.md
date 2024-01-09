@@ -1,5 +1,5 @@
-# LiftingApp
-Application Startup for CS 260
-Hello World!!!
+### LiftingApp
+## Description Deliverable
+# Elevator Pitch
 
-Goodbye World!!
+# Design
